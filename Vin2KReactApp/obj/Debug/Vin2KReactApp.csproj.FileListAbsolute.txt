@@ -1,0 +1,6 @@
+D:\Projects\MyOwnNewGen\Vin2KReactApp\Vin2KReactApp\bin\Vin2KReactApp.dll.config
+D:\Projects\MyOwnNewGen\Vin2KReactApp\Vin2KReactApp\bin\Vin2KReactApp.dll
+D:\Projects\MyOwnNewGen\Vin2KReactApp\Vin2KReactApp\bin\Vin2KReactApp.pdb
+D:\Projects\MyOwnNewGen\Vin2KReactApp\Vin2KReactApp\obj\Debug\Vin2KReactApp.csprojResolveAssemblyReference.cache
+D:\Projects\MyOwnNewGen\Vin2KReactApp\Vin2KReactApp\obj\Debug\Vin2KReactApp.dll
+D:\Projects\MyOwnNewGen\Vin2KReactApp\Vin2KReactApp\obj\Debug\Vin2KReactApp.pdb
